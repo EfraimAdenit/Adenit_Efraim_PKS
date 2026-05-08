@@ -45,9 +45,9 @@ My academic journey is driven by building systems that merge usability with tech
 ---
 
 ## 🖼️ Screenshots
-![EchoPoly IDE](./images/echopoly_screenshot.png)  
-![NEU Library Visitor Log](./images/neu_library_screenshot.png)  
-![KeyFlow Demo](./images/keyflow_demo.png)
+![EchoPoly IDE](./images/echopoly_screenshot1.png)  
+![NEU Library Visitor Log](./images/neu_library_screenshot1.png)  
+![KeyFlow Demo](./images/keyflow_demo1.png)
 
 ---
 
