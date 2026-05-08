@@ -58,6 +58,6 @@ My academic journey is driven by building systems that merge usability with tech
 
 ---
 
-## 📬 Contact
+## Contact
 - **LinkedIn:** [Efraim-Adenit](https://www.linkedin.com/in/efraim-adenit-8800a61a0/)  
 - **Email:** EfraimAdenit01@gmail.com  
